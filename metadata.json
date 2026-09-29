@@ -1,0 +1,6 @@
+{
+  "name": "KhojGhor - খোঁজঘর",
+  "description": "খোঁজঘর (KhojGhor) – বাংলাদেশের তরুণদের জন্য আধুনিক ডিজিটাল প্ল্যাটফর্ম: AI, প্রযুক্তি, ফ্রিল্যান্সিং ও অনলাইন আর্নিং, স্টুডেন্ট রিসোর্স, প্রোজেক্ট বিল্ড এবং ডিজিটাল টুলস।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
